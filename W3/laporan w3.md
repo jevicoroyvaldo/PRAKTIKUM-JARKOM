@@ -59,4 +59,3 @@ Praktikum ini bertujuan untuk menganalisis mekanisme kerja protokol HTTP (*Hyper
 2. **Efisiensi:** Fitur *Conditional GET* secara efektif mengurangi beban server dengan memanfaatkan cache browser.
 3. **Ketergantungan TCP:** Keberhasilan transmisi file besar sangat bergantung pada kemampuan TCP dalam melakukan segmentasi dan penyusunan kembali (*reassembly*).
 4. **Keamanan:** Penggunaan HTTP murni tanpa enkripsi (TLS/SSL) memiliki risiko keamanan tinggi karena data sensitif terkirim secara terbuka.
-
