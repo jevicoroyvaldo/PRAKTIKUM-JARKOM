@@ -26,7 +26,7 @@ Berdasarkan pengamatan pada jendela *Packet-Listing* dan *Packet-Contents*, dite
 * **Nomor Paket:** 391
 * **Alamat IP Sumber:** `192.168.100.113` (Perangkat Praktikan) 
 * **Alamat IP Tujuan:** `128.119.245.12` (Server UMass)
-* **Protokol:** HTTP
+* **Protokol:** HTTP 
 * **Informasi:** `GET /wiresharklabs/INTRO-wireshark-file1.html HTTP/1.1`
 ![Filter HTTP Berhasil](<Screenshot 2026-04-13 183053.png>)
 

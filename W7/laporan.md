@@ -8,7 +8,7 @@ markdown_content = """# LAPORAN PRAKTIKUM JARINGAN KOMPUTER - MODUL 7
 
 ---
 
-## A. Tujuan Praktikum
+## A. Tujuan Praktikum 
 1. Memahami arsitektur komunikasi *Client-Server* pada lapisan aplikasi (*Application Layer*).
 2. Mampu mengimplementasikan pemrograman jaringan berbasis *Socket* menggunakan protokol UDP (*User Datagram Protocol*).
 3. Mampu mengimplementasikan pemrograman jaringan berbasis *Socket* menggunakan protokol TCP (*Transmission Control Protocol*).

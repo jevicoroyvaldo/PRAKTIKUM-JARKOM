@@ -11,8 +11,8 @@
 
 ### A. Tujuan Praktikum
 Dapat menginvestigasi cara kerja protokol DNS (Domain Name System) menggunakan alat bantu nslookup dan Packet Sniffer (Wireshark).
-
-### B. Pengantar
+ 
+### B. Pengantar 
 DNS memegang peranan penting di internet sebagai penerjemah nama host ke alamat IP agar lebih mudah diingat oleh manusia. Modul ini membahas cara kerja DNS secara khusus di sisi klien. Secara garis besar, tugas klien adalah mengirimkan permintaan (query) ke server DNS lokal dan menerima hasilnya (response). Klien tidak perlu mengetahui kerumitan yang terjadi di baliknya, yaitu ketika server-server DNS hierarkis saling berkomunikasi secara rekursif atau iteratif untuk meresolusi alamat IP yang diminta.
 
 ---

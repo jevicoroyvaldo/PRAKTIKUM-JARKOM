@@ -9,7 +9,7 @@
 ---
 
 ## A. Capaian Praktikum
-1. Merancang dan mengimplementasikan program *web server* berskala mikro memanfaatkan pemrograman soket berbasis protokol TCP.
+1. Merancang dan mengimplementasikan program *web server* berskala mikro memanfaatkan pemrograman soket berbasis protokol TCP. 
 
 ---
 

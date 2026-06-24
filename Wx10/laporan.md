@@ -7,8 +7,8 @@
 * **Kelas:** IF-04-01
 
 ---
-
-## A. Capaian Praktikum
+ 
+## A. Capaian Praktikum  
 1. Mampu mengamati, membedah, dan menganalisis mekanisme kerja serta anatomi protokol IP (Internet Protocol) menggunakan perangkat lunak Wireshark.
 
 ---

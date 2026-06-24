@@ -8,7 +8,7 @@
 
 ---
 
-## A. Capaian Praktikum
+## A. Capaian Praktikum 
 1. Mengamati, membedah, dan memahami tahapan pertukaran paket data pada protokol DHCP (Dynamic Host Configuration Protocol) menggunakan bantuan Wireshark.
 
 ---

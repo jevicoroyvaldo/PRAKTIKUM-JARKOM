@@ -35,3 +35,4 @@ www.python.org
 
 ### 2. Verifikasi Python
 ![Verifikasi Python di Command Prompt](<../ASET/IMAGE/Screenshot 2026-03-10 194830.png>)
+ 

@@ -23,7 +23,7 @@ Praktikum ini bertujuan untuk menganalisis mekanisme kerja protokol HTTP (*Hyper
 * **Analisis:** Header `User-Agent` menunjukkan identitas browser yang digunakan dalam sesi ini.
 
 ![Basic GET](<W3/1. Basic GET.png>)
-
+  
 ### 2. Mekanisme Conditional GET (Caching)
 **Langkah:** Melakukan refresh pada browser untuk memicu validasi cache.
 * **Hasil:** Server mengirimkan status **304 Not Modified** (Paket #769).

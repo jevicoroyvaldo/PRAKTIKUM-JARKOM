@@ -14,7 +14,7 @@
 
 ---
 
-## B. Metodologi & Langkah Kerja
+## B. Metodologi & Langkah Kerja 
 
 ### 1. Perekaman Arsitektur Frame Ethernet
 1. Bersihkan seluruh riwayat penjelajahan dan data *cache* pada aplikasi peramban web (*browser*) untuk memastikan transmisi data bermula dari kondisi kosong.

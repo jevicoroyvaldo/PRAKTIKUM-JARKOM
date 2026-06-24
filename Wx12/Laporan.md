@@ -135,5 +135,5 @@ Ketika router di tengah jalur menolak paket akibat masa aktifnya habis, dikirimk
 
 ### 2. Kesimpulan Pengukuran Performa
 * **Analisis Kuantitatif Jaringan (Koneksi Asia - Hong Kong):** Hasil pengujian membuktikan kualitas interkoneksi sangat prima dengan nilai *loss rate* berada di angka 0% serta rata-rata RTT berkisar 62-64 ms. Meskipun jarak fisik tergolong jauh (melewati perkiraan 85 hop jaringan), infrastruktur backbone mampu mengalirkan data dengan sangat responsif.
-* **Analisis Kuantitatif Jaringan (Koneksi Eropa - Prancis):** Melalui penelusuran rute, rincian topologi transmisi lintas samudra berhasil terpetakan dalam 12 simpul utama. Peningkatan waktu respons pada pertengahan lompatan merupakan kondisi wajar akibat latensi transit kabel bawah laut internasional yang menjembatani node domestik menuju jaringan RENATER dan INRIA.
+* **Analisis Kuantitatif Jaringan (Koneksi Eropa - Prancis):** Melalui penelusuran rute, rincian topologi transmisi lintas samudra berhasil terpetakan dalam 12 simpul utama. Peningkatan waktu respons pada pertengahan lompatan merupakan kondisi wajar akibat latensi transit kabel bawah laut internasional yang menjembatani node domestik menuju jaringan RENATER dan INRIA. 
  
