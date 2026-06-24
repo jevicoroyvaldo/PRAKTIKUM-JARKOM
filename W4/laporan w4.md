@@ -86,7 +86,7 @@ Menampilkan record DNS yang tersimpan di memori lokal laptop. Terdapat nilai TTL
 
 **Pertanyaan dan Jawaban:**
 * **Berapa banyak "jawaban" atau "answers" yang terdapat di dalamnya?**
-  Terdapat **6 jawaban** (Answer RRs: 6).
+  Terdapat **6 jawaban** (Answer RRs: 6).rm -rf .git
 * **Apa saja isi yang terkandung dalam setiap jawaban tersebut?**
   Isi jawaban berupa daftar alamat IPv4 untuk domain yang diminta, salah satunya adalah `142.251.10.102`.
 * **Apakah host perlu mengirimkan permintaan DNS baru setiap kali ingin mengakses suatu gambar?**
